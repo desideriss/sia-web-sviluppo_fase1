@@ -1,0 +1,10 @@
+target
+libraries
+.idea
+logs
+.factorypath
+.classpath
+.settings
+.project
+/bin/
+*.dm
